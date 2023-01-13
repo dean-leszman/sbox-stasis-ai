@@ -1,0 +1,4 @@
+code/*.csproj
+code/obj
+code/Properties
+.vs/

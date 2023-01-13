@@ -1,0 +1,20 @@
+{
+  "Title": "Stasis AI",
+  "Type": "addon",
+  "Org": "stasis",
+  "Ident": "stasis_ai",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "Metadata": {
+    "PrimaryAsset": "",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1"
+  }
+}
